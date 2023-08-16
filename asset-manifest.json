@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/plano-careeira/static/css/main.ab4364dd.css",
+    "main.css": "/plano-careeira/static/css/main.b915a67e.css",
     "main.js": "/plano-careeira/static/js/main.227e6e49.js",
     "static/js/787.3f9fd047.chunk.js": "/plano-careeira/static/js/787.3f9fd047.chunk.js",
     "static/media/dolar.jpg": "/plano-careeira/static/media/dolar.6329ccaa7b642a822152.jpg",
@@ -13,12 +13,12 @@
     "static/media/front.png": "/plano-careeira/static/media/front.d089bc6b7496ba706524.png",
     "static/media/casa.jpeg": "/plano-careeira/static/media/casa.b10a2489f165344546e6.jpeg",
     "index.html": "/plano-careeira/index.html",
-    "main.ab4364dd.css.map": "/plano-careeira/static/css/main.ab4364dd.css.map",
+    "main.b915a67e.css.map": "/plano-careeira/static/css/main.b915a67e.css.map",
     "main.227e6e49.js.map": "/plano-careeira/static/js/main.227e6e49.js.map",
     "787.3f9fd047.chunk.js.map": "/plano-careeira/static/js/787.3f9fd047.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab4364dd.css",
+    "static/css/main.b915a67e.css",
     "static/js/main.227e6e49.js"
   ]
 }
