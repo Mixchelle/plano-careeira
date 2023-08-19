@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/plano-careeira/static/css/main.b915a67e.css",
-    "main.js": "/plano-careeira/static/js/main.227e6e49.js",
+    "main.css": "/plano-careeira/static/css/main.f665eee1.css",
+    "main.js": "/plano-careeira/static/js/main.96b43b89.js",
     "static/js/787.3f9fd047.chunk.js": "/plano-careeira/static/js/787.3f9fd047.chunk.js",
+    "static/media/Q.png": "/plano-careeira/static/media/Q.b521fe082f986f4b9d9e.png",
+    "static/media/ICO.png": "/plano-careeira/static/media/ICO.de2d5362914f676fcb3d.png",
     "static/media/dolar.jpg": "/plano-careeira/static/media/dolar.6329ccaa7b642a822152.jpg",
-    "static/media/sessao2.jpg": "/plano-careeira/static/media/sessao2.31e4cae2a3de1a3e1f0f.jpg",
+    "static/media/susseso.png": "/plano-careeira/static/media/susseso.a10bc5da03b9bbfdde96.png",
+    "static/media/nuven.jpg": "/plano-careeira/static/media/nuven.685a179fdcb310d73ee1.jpg",
+    "static/media/mobile.png": "/plano-careeira/static/media/mobile.381f06115cadc85ad96b.png",
+    "static/media/Liderança.jpg": "/plano-careeira/static/media/Liderança.982e7f7b0485b5f86d38.jpg",
     "static/media/mae.jpeg": "/plano-careeira/static/media/mae.2a0fb1b11f59fbc2a1c0.jpeg",
     "static/media/sessão1.jpeg": "/plano-careeira/static/media/sessão1.d0f6cb78d14aec5b8294.jpeg",
-    "static/media/equipedev.jpg": "/plano-careeira/static/media/equipedev.1024c4cd259616479206.jpg",
-    "static/media/sessao3.jpg": "/plano-careeira/static/media/sessao3.2b71ec85267608b3cedb.jpg",
-    "static/media/cloud.webp": "/plano-careeira/static/media/cloud.ebc136c52270e4587e9f.webp",
-    "static/media/front.png": "/plano-careeira/static/media/front.d089bc6b7496ba706524.png",
-    "static/media/casa.jpeg": "/plano-careeira/static/media/casa.b10a2489f165344546e6.jpeg",
+    "static/media/arquitetura.jpg": "/plano-careeira/static/media/arquitetura.e7e2b08d3283b61cbfb3.jpg",
+    "static/media/dockerwebp": "/plano-careeira/static/media/dockerwebp.e7e8ebcd0274340d22e9",
+    "static/media/otimaçao.avif": "/plano-careeira/static/media/otimaçao.2d8050c297a5277a963c.avif",
+    "static/media/stacks.avif": "/plano-careeira/static/media/stacks.2b747281b2780d5f010e.avif",
     "index.html": "/plano-careeira/index.html",
-    "main.b915a67e.css.map": "/plano-careeira/static/css/main.b915a67e.css.map",
-    "main.227e6e49.js.map": "/plano-careeira/static/js/main.227e6e49.js.map",
+    "main.f665eee1.css.map": "/plano-careeira/static/css/main.f665eee1.css.map",
+    "main.96b43b89.js.map": "/plano-careeira/static/js/main.96b43b89.js.map",
     "787.3f9fd047.chunk.js.map": "/plano-careeira/static/js/787.3f9fd047.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b915a67e.css",
-    "static/js/main.227e6e49.js"
+    "static/css/main.f665eee1.css",
+    "static/js/main.96b43b89.js"
   ]
 }
